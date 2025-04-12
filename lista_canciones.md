@@ -11,3 +11,5 @@
 10. Thinking out loud
 11. Promiseland - Mika
 12. Prometí 
+13. Cin Cin 
+14. Como un Fan
