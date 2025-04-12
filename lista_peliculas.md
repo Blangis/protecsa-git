@@ -10,3 +10,5 @@
 8. Loco y estúpido amor
 9. Harry Potter
 10. Narnia
+11. Gritando y Pataleando
+12. Futbol shaolin
