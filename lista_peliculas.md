@@ -10,3 +10,14 @@
 8. Loco y estúpido amor
 9. Harry Potter
 10. Narnia
+11. Toy Story
+
+
+# Series
+
+1. Friends
+2. Seinfeld
+3. Agendas
+4. El mariachi
+5. 
+
