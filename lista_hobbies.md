@@ -5,3 +5,4 @@
 3. Armar rompecabezas
 4. Tocar la guitarra
 5. Ver series
+6. Colorear
